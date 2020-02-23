@@ -1,1456 +1,976 @@
 #EXTM3U
-#EXTINF:0,US: CW 11
+#EXTINF:0,*NBC SPORTS
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/66933
-#EXTINF:0,US: CW CHICAGO IL WPWR
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/170
+#EXTINF:0,*CBS SPORTS HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/66934
-#EXTINF:0,US: CW HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/169
+#EXTINF:0,*TSN 1 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/66935
-#EXTINF:0,US: CW NEW YORK NY WPIX
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/138
+#EXTINF:0,*TSN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/66936
-#EXTINF:0,US: Discovery Channel EAST
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/139
+#EXTINF:0,*TSN 3 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/66941
-#EXTINF:0,US: Discovery Channel FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/140
+#EXTINF:0,*TSN 4 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/66942
-#EXTINF:0,US: Discovery Velocity HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/141
+#EXTINF:0,*TSN 5 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/66951
-#EXTINF:0,CA: A&E FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/142
+#EXTINF:0,*ESPN HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49091
-#EXTINF:0,CA: ABC BOSTON MA WCVB
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/143
+#EXTINF:0,ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49092
-#EXTINF:0,CA: ABC Buffalo (WKBW)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/144
+#EXTINF:0,ESPN NEWS HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49093
-#EXTINF:0,CA: ABC EAST
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59038
+#EXTINF:0,ESPN U HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49094
-#EXTINF:0,CA: ABC HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4064
+#EXTINF:0,BIG 10 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49095
-#EXTINF:0,CA: ABC SEATTLE WA KOMO
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/3950
+#EXTINF:0,FOX COLLEGE ATLANTIC
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49096
-#EXTINF:0,CA: ABC Spark HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59885
+#EXTINF:0,FOX COLLEGE PACIFIC
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49097
-#EXTINF:0,CA: ABC WEST
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59886
+#EXTINF:0,PAC 12 ARIZONA
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49098
-#EXTINF:0,CA: ACTION
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9691
+#EXTINF:0,PAC 12 BAY AREA
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49099
-#EXTINF:0,CA: ADDIK TV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9690
+#EXTINF:0,PAC 12 LOS ANGELES
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49100
-#EXTINF:0,CA: Addik TV (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9692
+#EXTINF:0,PAC 12 MOUNTAIN
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49101
-#EXTINF:0,CA: Adult Swim
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9689
+#EXTINF:0,PAC 12 NETWORK
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49102
-#EXTINF:0,CA: AHC
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9687
+#EXTINF:0,PAC 12 OREGON
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49103
-#EXTINF:0,CA: AMC FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9688
+#EXTINF:0,*FOX SPORTS 1 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49104
-#EXTINF:0,CA: AMI-tele (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/145
+#EXTINF:0,*FOX SPORTS 2 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49105
-#EXTINF:0,CA: ANIMAL PLANET HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/146
+#EXTINF:0,*SPORTSNET ONT HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49106
-#EXTINF:0,CA: APTN
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/148
+#EXTINF:0,*SPORTSNET ONE HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49107
-#EXTINF:0,CA: ARTV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/149
+#EXTINF:0,*SPORTSNET PACIFIC HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49108
-#EXTINF:0,CA: BBC Canada
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2434
+#EXTINF:0,SPORTSNET WEST HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49109
-#EXTINF:0,CA: BBC EARTH HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/8890
+#EXTINF:0,*SPORTSNET 360 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49110
-#EXTINF:0,CA: BBC KIDS
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/147
+#EXTINF:0,*SPORTSNET WORLD HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49111
-#EXTINF:0,CA: BBC NEWS
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/150
+#EXTINF:0,*NFL NETWORK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49112
-#EXTINF:0,CA: BBC WORLD NEWS HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/157
+#EXTINF:0,*NHL NETWORK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49113
-#EXTINF:0,CA: beIN SPORTS
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/156
+#EXTINF:0,LEAFS TV
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49114
-#EXTINF:0,CA: beIN Sports 4 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59039
+#EXTINF:0,*NBA HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49115
-#EXTINF:0,CA: beIN Sports 5 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/165
+#EXTINF:0,MSG HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49116
-#EXTINF:0,CA: beIN Sports 7 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/10052
+#EXTINF:0,MLB NETWORK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49117
-#EXTINF:0,CA: beIN Sports 8 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2193
+#EXTINF:0,YES TV HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49118
-#EXTINF:0,CA: beIN Sports 9 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/10034
+#EXTINF:0,GOLF HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49119
-#EXTINF:0,CA: BET HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/166
+#EXTINF:0,WWE HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49120
-#EXTINF:0,CA: Bloomberg TV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/168
+#EXTINF:0,WRESTLING PPV
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49121
-#EXTINF:0,CA: BNN BLOOMBERG
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/82718
+#EXTINF:0,TENNIS HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49122
-#EXTINF:0,CA: BNN HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/167
+#EXTINF:0,FIGHT - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49123
-#EXTINF:0,CA: BOOK TV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71284
+#EXTINF:0,MAVTV
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49124
-#EXTINF:0,CA: BOOMERANG HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/68854
+#EXTINF:0,TVG - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49125
-#EXTINF:0,CA: BRAVO HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59036
+#EXTINF:0,TVG 2 - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49126
-#EXTINF:0,CA: C-PAC
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/81931
+#EXTINF:0,ATG LIVE
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49127
-#EXTINF:0,CA: C-PAC (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/80384
+#EXTINF:0,KANAL 75 INT
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49128
-#EXTINF:0,CA: CablePulse 24
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/80388
+#EXTINF:0,LADBROKES
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49129
-#EXTINF:0,CA: CANAL D (Fench)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/80390
+#EXTINF:0,SIS ONE
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49130
-#EXTINF:0,CA: CANAL D (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/80387
+#EXTINF:0,SIS RACING
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49131
-#EXTINF:0,CA: CANAL D HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/80385
+#EXTINF:0,SIS TWO
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49132
-#EXTINF:0,CA: Canal Savoir
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/80386
+#EXTINF:0,NBC SPORTS HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49133
-#EXTINF:0,CA: CANAL SAVOIR HD (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/81965
+#EXTINF:0,FLOW 1 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49134
-#EXTINF:0,CA: CANAL VIE
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71116
+#EXTINF:0,FLOW 1 SD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49135
-#EXTINF:0,CA: CARTOON NETWORK HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71115
+#EXTINF:0,SONY SIX HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49136
-#EXTINF:0,CA: CASA
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/193
+#EXTINF:0,SONY ESPN
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49137
-#EXTINF:0,CA: CASA (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4191
+#EXTINF:0,PTV SPORTS
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49138
-#EXTINF:0,CA: CBC CALGARY HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/195
+#EXTINF:0,WILLOW CRICKET HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49139
-#EXTINF:0,CA: CBC CHARLOTTETOWN HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/198
+#EXTINF:0,WILLOW XTRA HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49140
-#EXTINF:0,CA: CBC EDMONTON
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9630
+#EXTINF:0,STAR SPORTS HD ENGLISH
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49141
-#EXTINF:0,CA: CBC FREDERICTON
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/199
+#EXTINF:0,STAR SPORTS SELECT 2
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49142
-#EXTINF:0,CA: CBC HALIFAX HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/200
+#EXTINF:0,STAR SPORTS HINDI
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49143
-#EXTINF:0,CA: CBC HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/201
+#EXTINF:0,STAR SPORTS 2 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49144
-#EXTINF:0,CA: CBC MONTREAL (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/202
+#EXTINF:0,TEN 1
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49145
-#EXTINF:0,CA: CBC Montreal HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4193
+#EXTINF:0,TEN 2
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49146
-#EXTINF:0,CA: CBC NEWS HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4194
+#EXTINF:0,TEN 3
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49147
-#EXTINF:0,CA: CBC News Network
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4195
+#EXTINF:0,EIR SPORTS 1 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49148
-#EXTINF:0,CA: CBC NEWS TORONTO HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/234
+#EXTINF:0,TYC SPORTS INT (ES)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49149
-#EXTINF:0,CA: CBC NOVA SCOTIA
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/240
+#EXTINF:0,ESPN DEPORTES HD (ES)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49150
-#EXTINF:0,CA: CBC Ottawa
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/238
+#EXTINF:0,FOX DEPORTES (ES)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49151
-#EXTINF:0,CA: CBC REGINA HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/237
+#EXTINF:0,NBC HD EAST
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49152
-#EXTINF:0,CA: CBC ST JOHNS
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/7
+#EXTINF:0,CBS HD EAST
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49153
-#EXTINF:0,CA: CBC St Johns (CBNT)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/8
+#EXTINF:0,ABC HD EAST
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49154
-#EXTINF:0,CA: CBC Toronto (CBLT)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/10
+#EXTINF:0,FOX HD EAST
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49155
-#EXTINF:0,CA: CBC TORONTO FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9
+#EXTINF:0,*CP24 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49156
-#EXTINF:0,CA: CBC VANCOUVER HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/11
+#EXTINF:0,CP24 (H264)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49157
-#EXTINF:0,CA: CBC WINDSOR HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71459
+#EXTINF:0,OMNI 1 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49158
-#EXTINF:0,CA: CBC WINNIPEG HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/12
+#EXTINF:0,OMNI 2 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49159
-#EXTINF:0,CA: CBC3
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/13
+#EXTINF:0,CITY TV HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49160
-#EXTINF:0,CA: CBCLGARY
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/14
+#EXTINF:0,*GLOBAL EAST HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49161
-#EXTINF:0,CA: CBS BOSTON MA WBZ
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/15
+#EXTINF:0,*CTV EAST HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49162
-#EXTINF:0,CA: CBS EAST
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/16
+#EXTINF:0,CTV NORTH
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49163
-#EXTINF:0,CA: CBS HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/17
+#EXTINF:0,CTV KITCHNER - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49164
-#EXTINF:0,CA: CBS News
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71277
+#EXTINF:0,CTV2 LONDON - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49165
-#EXTINF:0,CA: CBS SEATTLE WA KIRO
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71281
+#EXTINF:0,CBC EAST HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49166
-#EXTINF:0,CA: CBS Sports Network HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/18
+#EXTINF:0,CBC WINDSOR - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49167
-#EXTINF:0,CA: CBS West HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71279
+#EXTINF:0,CBC HALIFAX
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49168
-#EXTINF:0,CA: CBSN
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4075
+#EXTINF:0,CTV HALIFAX
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49169
-#EXTINF:0,CA: CCNtv
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4074
+#EXTINF:0,CBC ATLANTIC - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49170
-#EXTINF:0,CA: CHCH FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71278
+#EXTINF:0,CBC CHARLOTTETOWN HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49171
-#EXTINF:0,CA: CINE POP
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/72691
+#EXTINF:0,CTV MONCTON - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49172
-#EXTINF:0,CA: CINE POP (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71282
+#EXTINF:0,CTV NB - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49173
-#EXTINF:0,CA: CINEMAX (WEST) HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71283
+#EXTINF:0,NTV (NEWFOUNDLAND) - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49174
-#EXTINF:0,CA: City HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/68073
+#EXTINF:0,CBC OTTAWA - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49175
-#EXTINF:0,CA: CITY MONTREAL
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/45499
+#EXTINF:0,CTV OTTAWA - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49176
-#EXTINF:0,CA: CITY SASKATCHEWAN
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/65625
+#EXTINF:0,CTV 2 OTTAWA - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49177
-#EXTINF:0,CA: CITY TORONTO HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59130
+#EXTINF:0,CTV WINNIPEG
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49178
-#EXTINF:0,CA: CITY TV CALGARY HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/63327
+#EXTINF:0,CBC WINNIPEG - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49179
-#EXTINF:0,CA: CITY TV VANCOUVER
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46716
+#EXTINF:0,CBC EDMONTON - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49180
-#EXTINF:0,CA: CITY WINNIPEG
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46715
+#EXTINF:0,CTV EDMONTON - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49181
-#EXTINF:0,CA: CITYLGARY
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/65628
+#EXTINF:0,GLOBAL EDMONTON - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49182
-#EXTINF:0,CA: Citytv Toronto
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/65627
+#EXTINF:0,NBC HD WEST
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49183
-#EXTINF:0,CA: CMT CANADA
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/303
+#EXTINF:0,FOX HD WEST
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49184
-#EXTINF:0,CA: CMT HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/305
+#EXTINF:0,ABC HD WEST
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49185
-#EXTINF:0,CA: CNBC HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/306
+#EXTINF:0,CBS HD WEST
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49186
-#EXTINF:0,CA: CNBC World HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/304
+#EXTINF:0,CW11 HD WEST
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49187
-#EXTINF:0,CA: CNN HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2421
+#EXTINF:0,CBC CALGARY
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49188
-#EXTINF:0,CA: CNN INTERNATIONAL HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/7339
+#EXTINF:0,CTV CALGARY
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49189
-#EXTINF:0,CA: COMEDY CENTRAL
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/7338
+#EXTINF:0,CITY CALGARY - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49190
-#EXTINF:0,CA: COMEDY EAST HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71280
+#EXTINF:0,GLOBAL LETHBRIDGE - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49191
-#EXTINF:0,CA: COMEDY GOLD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71285
+#EXTINF:0,OMNI CALGARY - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49192
-#EXTINF:0,CA: COMEDY HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71286
+#EXTINF:0,OMNI PRAIRIES - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49193
-#EXTINF:0,CA: COMEDY WEST HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71288
+#EXTINF:0,BC1 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49194
-#EXTINF:0,CA: COOKING Channel HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/307
+#EXTINF:0,GLOBAL BC HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49195
-#EXTINF:0,CA: COSMO
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/308
+#EXTINF:0,CTV VANCOUVER HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49196
-#EXTINF:0,CA: Cottage Life FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/310
+#EXTINF:0,CTV 2 VANCOUVER HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49197
-#EXTINF:0,CA: Court Tv
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2418
+#EXTINF:0,CITY VANCOUVER HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49198
-#EXTINF:0,CA: CP 24 FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/311
+#EXTINF:0,CBC VANCOUVER HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49199
-#EXTINF:0,CA: CPAC EN
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/309
+#EXTINF:0,OMNI BC - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49200
-#EXTINF:0,CA: CPAC FRENCH
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71287
+#EXTINF:0,CBC HD (MTL)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49201
-#EXTINF:0,CA: CRAVE 1 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/15074
+#EXTINF:0,CTV HD (MTL)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49202
-#EXTINF:0,CA: CRAVE 2 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2398
+#EXTINF:0,GLOBAL HD (MTL)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49203
-#EXTINF:0,CA: CRAVE 3 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2397
+#EXTINF:0,CITY HD (MTL)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49204
-#EXTINF:0,CA: CRAVE 4 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/15073
+#EXTINF:0,*USA NETWORK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49205
-#EXTINF:0,CA: Crime+ Investigation HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/312
+#EXTINF:0,GSN HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49206
-#EXTINF:0,CA: CTV 2
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/12769
+#EXTINF:0,TV LAND HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49207
-#EXTINF:0,CA: CTV 2 VANCOUVER HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/313
+#EXTINF:0,DEJAVIEW  - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49208
-#EXTINF:0,CA: CTV BARRIE
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/48517
+#EXTINF:0,METV HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49209
-#EXTINF:0,CA: CTV CALGARY
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/15072
+#EXTINF:0,YES TV
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49210
-#EXTINF:0,CA: CTV COMEDY HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/6962
+#EXTINF:0,FX HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49211
-#EXTINF:0,CA: CTV DRAMA Channel
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/314
+#EXTINF:0,FXX HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49212
-#EXTINF:0,CA: CTV EAST
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/315
+#EXTINF:0,COMEDY NETWORK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49213
-#EXTINF:0,CA: CTV HALIFAX
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/316
+#EXTINF:0,AND1 24X7
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49214
-#EXTINF:0,CA: CTV HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/7833
+#EXTINF:0,PROFESSOR LIVE 24X7 (SPORT)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49215
-#EXTINF:0,CA: CTV KITCHENER
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/7832
+#EXTINF:0,*TBS HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49216
-#EXTINF:0,CA: CTV LIFE Channel
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/317
+#EXTINF:0,SHARK TANK 24x7 - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49217
-#EXTINF:0,CA: CTV MONTREAL HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/8888
+#EXTINF:0,PARAMOUNT NETWORK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49218
-#EXTINF:0,CA: CTV News Channel
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/318
+#EXTINF:0,*DISCOVERY HD (CDN)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49219
-#EXTINF:0,CA: CTV News Live Events 2
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/319
+#EXTINF:0,DISCOVERY HD (USA)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49220
-#EXTINF:0,CA: CTV News Live Events 4
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/56250
+#EXTINF:0,DISCOVERY SCIENCE HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49221
-#EXTINF:0,CA: CTV NEWS NETWORK
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/320
+#EXTINF:0,MAN VS WILD 24X7 - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49222
-#EXTINF:0,CA: CTV NEWS VANCOUVER
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/8091
+#EXTINF:0,*HALLMARK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49223
-#EXTINF:0,CA: CTV OTTAWA
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/321
+#EXTINF:0,*HALLMARK MOVIES MYSTERY HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49224
-#EXTINF:0,CA: CTV Sci-Fi
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4599
+#EXTINF:0,HALLMARK DRAMA
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49225
-#EXTINF:0,CA: CTV TORONTO
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/83349
+#EXTINF:0,OXYGEN HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49226
-#EXTINF:0,CA: CTV Two Atlantic
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59037
+#EXTINF:0,ION HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49227
-#EXTINF:0,CA: CTV VANCOUVER HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59033
+#EXTINF:0,*HISTORY HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49228
-#EXTINF:0,CA: CTV2 OTTAWA
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/322
+#EXTINF:0,*ID HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49229
-#EXTINF:0,CA: CTVLGARY
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/324
+#EXTINF:0,LIFE HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49230
-#EXTINF:0,CA: CW 11 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/325
+#EXTINF:0,*LIFETIME MOVIES HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49231
-#EXTINF:0,CA: CW FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/326
+#EXTINF:0,IFC HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49232
-#EXTINF:0,CA: CW NEW YORK NY WPIX
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/327
+#EXTINF:0,POP HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49233
-#EXTINF:0,CA: Dastar
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/82603
+#EXTINF:0,*TLC HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49234
-#EXTINF:0,CA: DAYSTAR TV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/328
+#EXTINF:0,DIY HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49235
-#EXTINF:0,CA: DEJAVIEW
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/329
+#EXTINF:0,FYI HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49236
-#EXTINF:0,CA: Discovery Channel HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/42684
+#EXTINF:0,OLN - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49237
-#EXTINF:0,CA: Discovery Science HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67103
+#EXTINF:0,LOVE NATURE HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49238
-#EXTINF:0,CA: Discovery Velocity HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/1258
+#EXTINF:0,MAKEFUL - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49239
-#EXTINF:0,CA: Disney (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67102
+#EXTINF:0,NAT GEO HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49240
-#EXTINF:0,CA: Disney Channel HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/330
+#EXTINF:0,*NAT GEO WILD HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49241
-#EXTINF:0,CA: Disney JR HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/331
+#EXTINF:0,ANIMAL PLANET HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49242
-#EXTINF:0,CA: Disney Junior (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/332
+#EXTINF:0,COOKING CHANNEL HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49243
-#EXTINF:0,CA: Disney XD HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/6108
+#EXTINF:0,FOOD HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49244
-#EXTINF:0,CA: DIY
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/333
+#EXTINF:0,FOOD HD (USA)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49245
-#EXTINF:0,CA: DIY NETWORK FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/80508
+#EXTINF:0,GUSTO - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49246
-#EXTINF:0,CA: DOCUMENTARY Channel
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67101
+#EXTINF:0,APTN - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49247
-#EXTINF:0,CA: DTOUR
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67104
+#EXTINF:0,GINX (CDN) - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49248
-#EXTINF:0,CA: E! FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67115
+#EXTINF:0,EPIC MEAL TIME 24X7
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49249
-#EXTINF:0,CA: EVASION
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/6129
+#EXTINF:0,MOTOR TREND HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49250
-#EXTINF:0,CA: EVASION (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/367
+#EXTINF:0,VICELAND HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49251
-#EXTINF:0,CA: EW ABC
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/323
+#EXTINF:0,AMC HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49252
-#EXTINF:0,CA: EW CBCCalgary
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/334
+#EXTINF:0,ELREY HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49253
-#EXTINF:0,CA: EW CBCVANCOUVER
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/10046
+#EXTINF:0,SUNDANCE HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49254
-#EXTINF:0,CA: EW CBS
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/10039
+#EXTINF:0,HGTV HD (CDN)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49255
-#EXTINF:0,CA: ew citytor
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/42685
+#EXTINF:0,*HGTV HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49256
-#EXTINF:0,CA: EW CPAC
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/335
+#EXTINF:0,COTTAGE TV HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49257
-#EXTINF:0,CA: ew cw
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/42394
+#EXTINF:0,PEACHTREE HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49258
-#EXTINF:0,CA: ew Disneyca
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/337
+#EXTINF:0,WGN HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49259
-#EXTINF:0,CA: EW FOODNETWORK
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9163
+#EXTINF:0,WGN NEWS HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49260
-#EXTINF:0,CA: ew fxxca
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/8688
+#EXTINF:0,E! HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49261
-#EXTINF:0,CA: ew hln
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/338
+#EXTINF:0,BOOK - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49262
-#EXTINF:0,CA: EW SLICE
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67100
+#EXTINF:0,SYFY HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49263
-#EXTINF:0,CA: FAMILY (East)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/339
+#EXTINF:0,CTV-SCIFI HD (SPACE)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49264
-#EXTINF:0,CA: FAMILY Channel
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/8110
+#EXTINF:0,TRU TV HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49265
-#EXTINF:0,CA: FAMILY CHARGED
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/340
+#EXTINF:0,TNT HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49266
-#EXTINF:0,CA: FAMILY CHRGD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/341
+#EXTINF:0,WE TV HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49267
-#EXTINF:0,CA: FAMILY JR
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/342
+#EXTINF:0,SLICE HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49268
-#EXTINF:0,CA: FIGHT NETWORK FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/343
+#EXTINF:0,ANNA AKANA 24X7
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49269
-#EXTINF:0,CA: Flow Sport 1
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/6133
+#EXTINF:0,MYHARTO 24X7
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49270
-#EXTINF:0,CA: Flow Sports Premier
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/6128
+#EXTINF:0,W NETWORK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49271
-#EXTINF:0,CA: Food 52
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/344
+#EXTINF:0,SHOWCASE HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49272
-#EXTINF:0,CA: FOOD NETWORK FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/346
+#EXTINF:0,*A&E HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49273
-#EXTINF:0,CA: Fox 25
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/347
+#EXTINF:0,OWN HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49274
-#EXTINF:0,CA: FOX BUFFALO NY WUTV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/348
+#EXTINF:0,QVC - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49275
-#EXTINF:0,CA: FOX FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67097
+#EXTINF:0,TSC - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49276
-#EXTINF:0,CA: FOX New HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67098
+#EXTINF:0,TRAVEL HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49277
-#EXTINF:0,CA: FOX Q13 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/349
+#EXTINF:0,TRAVEL XP - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49278
-#EXTINF:0,CA: FOX SEATTLE WA KCPQ
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59402
+#EXTINF:0,DESTINATION AMERICA HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49279
-#EXTINF:0,CA: FOX SPORTS Racing
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/7482
+#EXTINF:0,MTV HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49280
-#EXTINF:0,CA: FOX SPORTSTIME OHIO
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/350
+#EXTINF:0,BET HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49281
-#EXTINF:0,CA: Fox West
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/351
+#EXTINF:0,REVOLT HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49282
-#EXTINF:0,CA: FX HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/10042
+#EXTINF:0,CMT HD  - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49283
-#EXTINF:0,CA: FXX CANADA
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/12266
+#EXTINF:0,MUCH MUSIC HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49284
-#EXTINF:0,CA: FXX HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4141
+#EXTINF:0,UMF TV 24X7
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49285
-#EXTINF:0,CA: FYI
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/7831
+#EXTINF:0,M20 MUSIC CHANNEL
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49286
-#EXTINF:0,CA: Game Show HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4140
+#EXTINF:0,BRAVO HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49287
-#EXTINF:0,CA: GAME SHOW NETWORK FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/353
+#EXTINF:0,*VH1 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49288
-#EXTINF:0,CA: Game TV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/354
+#EXTINF:0,VH1 (US) - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49289
-#EXTINF:0,CA: Game+
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/70262
+#EXTINF:0,VISION HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49290
-#EXTINF:0,CA: GINX ESPORTSTV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/355
+#EXTINF:0,PBS HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49291
-#EXTINF:0,CA: GLOBAL CALGARY
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/356
+#EXTINF:0,CHCH HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49292
-#EXTINF:0,CA: GLOBAL EAST
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/358
+#EXTINF:0,CW11 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49293
-#EXTINF:0,CA: Global FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/359
+#EXTINF:0,BBC AMERICA HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49294
-#EXTINF:0,CA: GLOBAL HALIFAX HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/357
+#EXTINF:0,*CNN HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49295
-#EXTINF:0,CA: Global National
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/360
+#EXTINF:0,CBC NEWS HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49296
-#EXTINF:0,CA: Global Toronto (CIII)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/361
+#EXTINF:0,CTV NEWS NETWORK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49297
-#EXTINF:0,CA: GLOBAL TORONTO HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2423
+#EXTINF:0,HLN HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49298
-#EXTINF:0,CA: GLOBAL VANCOUVER HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/362
+#EXTINF:0,*FOX NEWS HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49299
-#EXTINF:0,CA: GOLF Channel HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/363
+#EXTINF:0,CBS NEWS HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49300
-#EXTINF:0,CA: GSN
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/3078
+#EXTINF:0,ABC NEWS HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49301
-#EXTINF:0,CA: GUSTO
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/3077
+#EXTINF:0,CNBC HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49302
-#EXTINF:0,CA: H2
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/364
+#EXTINF:0,FOX NEWS BUSINESS
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49303
-#EXTINF:0,CA: HBO 1
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4600
+#EXTINF:0,TRT WORLD HD (TR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49304
-#EXTINF:0,CA: HBO 2 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/27136
+#EXTINF:0,BLOOMBERG HD (NA)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49305
-#EXTINF:0,CA: HBO EAST
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/1662
+#EXTINF:0,BNN HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49306
-#EXTINF:0,CA: HBO HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/366
+#EXTINF:0,MSNBC HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49307
-#EXTINF:0,CA: Headline News
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/365
+#EXTINF:0,DW NEWS
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49308
-#EXTINF:0,CA: HGTV HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67410
+#EXTINF:0,EURONEWS
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49309
-#EXTINF:0,CA: HISTORIA
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67409
+#EXTINF:0,WEATHER CANADA
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49310
-#EXTINF:0,CA: Historia (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/3079
+#EXTINF:0,WEATHER USA HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49311
-#EXTINF:0,CA: HISTORIO
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/3080
+#EXTINF:0,ALJAZEERA ENGLISH
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49312
-#EXTINF:0,CA: HISTORIO (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/1661
+#EXTINF:0,FRANCE 24
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49313
-#EXTINF:0,CA: History 2
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4796
+#EXTINF:0,CCTV NEWS
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49314
-#EXTINF:0,CA: HLN FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/3965
+#EXTINF:0,BBC WORLD NEWS
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49315
-#EXTINF:0,CA: HOPE TV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9546
+#EXTINF:0,RTE NEWS NOW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49316
-#EXTINF:0,CA: ICI ARTV (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/7191
+#EXTINF:0,RT NEWS ENGLISH
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49317
-#EXTINF:0,CA: ICI MONTREAL
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/512
+#EXTINF:0,RT DOCUMENTARY
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49318
-#EXTINF:0,CA: ICI MONTREAL (FR)
+http://199.66.95.250:7997/1/1199/mpegts
+#EXTINF:0,TCM HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49319
-#EXTINF:0,CA: ICI Radio-Canada Tele (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/368
+#EXTINF:0,MOVIE TIME HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49320
-#EXTINF:0,CA: ICI RDI
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/369
+#EXTINF:0,CRAVE 1 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49321
-#EXTINF:0,CA: ICI RDI (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9505
+#EXTINF:0,CRAVE 2 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49322
-#EXTINF:0,CA: ICI TELE MONTREAL (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9506
+#EXTINF:0,CRAVE 3 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49323
-#EXTINF:0,CA: ICI TELEVISION HD (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9507
+#EXTINF:0,HBO 1 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49324
-#EXTINF:0,CA: ICI VANCOUVER
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/26321
+#EXTINF:0,HBO 2 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49325
-#EXTINF:0,CA: ICI VANCOUVER (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/26322
+#EXTINF:0,HBO EAST HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49326
-#EXTINF:0,CA: ICI VANCOUVER FR (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/371
+#EXTINF:0,HBO COMEDY HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49327
-#EXTINF:0,CA: ID
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/373
+#EXTINF:0,HBO FAMILY HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49328
-#EXTINF:0,CA: IFC
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4829
+#EXTINF:0,HBO SIGNATURE HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49329
-#EXTINF:0,CA: Investigation Discovery HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/372
+#EXTINF:0,HBO ZONE HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49330
-#EXTINF:0,CA: JOY
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4828
+#EXTINF:0,CINEMAX EAST HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49331
-#EXTINF:0,CA: KNOWLEDGE KIDS HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/380
+#EXTINF:0,ACTION MAX HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49332
-#EXTINF:0,CA: Knowledge Network
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/383
+#EXTINF:0,MOREMAX HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49333
-#EXTINF:0,CA: KTLA
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/381
+#EXTINF:0,5STAR MAX HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49334
-#EXTINF:0,CA: La chaÃ®ne Disney (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/382
+#EXTINF:0,THRILLER MAX HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49335
-#EXTINF:0,CA: LCN
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/80332
+#EXTINF:0,SHOWTIME EAST HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49336
-#EXTINF:0,CA: LCN (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/11361
+#EXTINF:0,SHOWTIME 2 HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49337
-#EXTINF:0,CA: LIFETIME HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/11362
+#EXTINF:0,SHOWTIME BEYOND HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49338
-#EXTINF:0,CA: LIFETIME MOVIE NETWORK HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/11363
+#EXTINF:0,SHOWTIME WOMEN HD (NEW)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49339
-#EXTINF:0,CA: LOVE NATURE
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/11359
+#EXTINF:0,SHOWTIME EXTREME HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49340
-#EXTINF:0,CA: Makeful
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/11358
+#EXTINF:0,SHOWTIME NEXT HD (NEW)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49341
-#EXTINF:0,CA: MAVTV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/11360
+#EXTINF:0,FLIX - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49342
-#EXTINF:0,CA: MAX
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59056
+#EXTINF:0,SUPER CHANNEL FUSE - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49343
-#EXTINF:0,CA: MAX (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71289
+#EXTINF:0,VAULT (CDN) - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49344
-#EXTINF:0,CA: MAX (French) (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/67114
+#EXTINF:0,STARZ HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49345
-#EXTINF:0,CA: MEDIASET ITALIA
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/374
+#EXTINF:0,STARZ EDGE HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49346
-#EXTINF:0,CA: MEDIASET ITALIA CANADA
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/377
+#EXTINF:0,STARZ COMEDY HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49347
-#EXTINF:0,CA: METEO
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/376
+#EXTINF:0,STARZ BLACK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49348
-#EXTINF:0,CA: METEO (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/378
+#EXTINF:0,ENCORE WESTERN HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49349
-#EXTINF:0,CA: Metro Media (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/379
+#EXTINF:0,EPIX EAST HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49350
-#EXTINF:0,CA: MIRACLE
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/69016
+#EXTINF:0,EPIX 2 HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49351
-#EXTINF:0,CA: MLB Network
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/69014
+#EXTINF:0,EPIX DRIVE IN'S HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49352
-#EXTINF:0,CA: MOI CIE
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/69012
+#EXTINF:0,EPIX HITS HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49353
-#EXTINF:0,CA: MOI et CIE (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/69013
+#EXTINF:0,WIN TV HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49354
-#EXTINF:0,CA: MONTREAL ICI MONTREAL (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/388
+#EXTINF:0,CEEN TV
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49355
-#EXTINF:0,CA: MOVIETIME HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/389
+#EXTINF:0,99 MUSIC (RADIO)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49356
-#EXTINF:0,CA: MSNBC HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71344
+#EXTINF:0,FAME 95 (RADIO)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49357
-#EXTINF:0,CA: MTV 2 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71342
+#EXTINF:0,HITZ 92 (RADIO)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49358
-#EXTINF:0,CA: MTV BASE HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71341
+#EXTINF:0,POWER 106 (RADIO)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49359
-#EXTINF:0,CA: MTV DANCE HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71345
+#EXTINF:0,RJR 94 (RADIO)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49360
-#EXTINF:0,CA: MTV HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/71343
+#EXTINF:0,TVO HD (NA)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49361
-#EXTINF:0,CA: MTV HITS HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/391
+#EXTINF:0,PBS KIDS - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49362
-#EXTINF:0,CA: MTV LIVE HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/15071
+#EXTINF:0,YTV HD (NA)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49363
-#EXTINF:0,CA: MTV ROCKS HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/390
+#EXTINF:0,DISCOVERY FAMILY HD - NEW
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49364
-#EXTINF:0,CA: MUCH
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59034
+#EXTINF:0,DISNEY HD EAST
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49365
-#EXTINF:0,CA: MUCH MUSIC
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/392
+#EXTINF:0,ABC SPARK HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49366
-#EXTINF:0,CA: MUSIC PLUS (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/4063
+#EXTINF:0,TREEHOUSE HD
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49367
-#EXTINF:0,CA: MUSIQUE PLUS (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/393
+#EXTINF:0,CANAL VIE (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49368
-#EXTINF:0,CA: NAT GEO HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/59086
+#EXTINF:0,CANAL D (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49369
-#EXTINF:0,CA: NAT GEO People
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9633
+#EXTINF:0,CANAL V (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49370
-#EXTINF:0,CA: NAT GEO WILD HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9634
+#EXTINF:0,MOI & CIE (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49371
-#EXTINF:0,CA: NBA TV FHD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/60034
+#EXTINF:0,CASA HD (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49372
-#EXTINF:0,CA: NBC
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46738
+#EXTINF:0,CINEPOP HD (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49373
-#EXTINF:0,CA: NBC BUFFALO NY WGRZ
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46739
+#EXTINF:0,EVASION HD (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49374
-#EXTINF:0,CA: NBC East
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46740
+#EXTINF:0,EXPLORA HD (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49375
-#EXTINF:0,CA: NBC GOLF Channel
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46741
+#EXTINF:0,METEOMEDIA HD (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49376
-#EXTINF:0,CA: NBC SEATTLE WA KING
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46742
+#EXTINF:0,TELETOON HD (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49377
-#EXTINF:0,CA: NFL Network
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46743
+#EXTINF:0,DISNEY (CA) (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49378
-#EXTINF:0,CA: NHL NETWORK
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/64054
+#EXTINF:0,TF0 HD (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49379
-#EXTINF:0,CA: NICKELODEN HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46744
+#EXTINF:0,UNIS HD (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49380
-#EXTINF:0,CA: NICKTOONS HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46745
+#EXTINF:0,ZESTE HD (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49381
-#EXTINF:0,CA: NTV
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/46746
+#EXTINF:0,LCN (FR) - NOUVEAU
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49382
-#EXTINF:0,CA: OLN HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/9635
+#EXTINF:0,TVA (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49383
-#EXTINF:0,CA: OMNI 1 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2395
+#EXTINF:0,CANAL SAVOIR (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49384
-#EXTINF:0,CA: OMNI 2 HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/15075
+#EXTINF:0,ICI (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49385
-#EXTINF:0,CA: ONE
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/5919
+#EXTINF:0,ICI MULTICULTURE (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49386
-#EXTINF:0,CA: OUTDOOR Channel
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/15076
+#EXTINF:0,RDS (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49387
-#EXTINF:0,CA: OWN HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2404
+#EXTINF:0,RDS 2 (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49388
-#EXTINF:0,CA: PARAMOUNT NETWORK HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2405
+#EXTINF:0,TVA 1 (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49389
-#EXTINF:0,CA: PBS America
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2406
+#EXTINF:0,TVA 2 (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49390
-#EXTINF:0,CA: PBS Buffalo (WNED)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2407
+#EXTINF:0,RDI (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49391
-#EXTINF:0,CA: PBS BUFFALOTORONTO WNED
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2396
+#EXTINF:0,SRC (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49392
-#EXTINF:0,CA: PBS EAST HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2399
+#EXTINF:0,CBC (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49393
-#EXTINF:0,CA: PBS KIDS
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2402
+#EXTINF:0,ARTV (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49394
-#EXTINF:0,CA: PEACH TREE HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2403
+#EXTINF:0,ADDIK (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49395
-#EXTINF:0,CA: PORTSNET WEST HD
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2412
+#EXTINF:0,SERIES  (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49396
-#EXTINF:0,CA: PRISE
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2409
+#EXTINF:0,ZTELE (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49397
-#EXTINF:0,CA: PRISE (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2411
+#EXTINF:0,YOOPA (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49398
-#EXTINF:0,CA: PRISE 2
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2394
+#EXTINF:0,VRAK (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49399
-#EXTINF:0,CA: Prise 2 (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2408
+#EXTINF:0,TV5 (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49400
-#EXTINF:0,CA: RDI
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2417
+#EXTINF:0,TV5 MONDE HD (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49401
-#EXTINF:0,CA: RDI (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2420
+#EXTINF:0,TELE QUEBEC (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49402
-#EXTINF:0,CA: RDS
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2400
+#EXTINF:0,SUPER ECRAN 1 (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49403
-#EXTINF:0,CA: RDS (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2414
+#EXTINF:0,SUPER ECRAN 2 (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49404
-#EXTINF:0,CA: RDS 2
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2415
+#EXTINF:0,SUPER ECRAN 3 (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49405
-#EXTINF:0,CA: RDS 2 (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2416
+#EXTINF:0,SUPER ECRAN 4 (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49406
-#EXTINF:0,CA: RDS INFO
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/25196
+#EXTINF:0,PRISE2 (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49407
-#EXTINF:0,CA: RDS INFO (FR)
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2413
+#EXTINF:0,MUSIQUE  (FR)
 #EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49408
-#EXTINF:0,CA: Revn
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49409
-#EXTINF:0,CA: Rogers TV (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49410
-#EXTINF:0,CA: RT
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49411
-#EXTINF:0,CA: Series
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49412
-#EXTINF:0,CA: Series Plus
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49413
-#EXTINF:0,CA: Series+ (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49414
-#EXTINF:0,CA: SERIS
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49415
-#EXTINF:0,CA: SERIS (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49416
-#EXTINF:0,CA: Seris +
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49417
-#EXTINF:0,CA: SHOPPING
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49418
-#EXTINF:0,CA: SHOWCASE EAST
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49419
-#EXTINF:0,CA: SHOWCASE HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49420
-#EXTINF:0,CA: SILVER SCREEN CLASSICS
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49421
-#EXTINF:0,CA: Slice HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49422
-#EXTINF:0,CA: SMITHSONIAN Channel HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49423
-#EXTINF:0,CA: SPACE HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49424
-#EXTINF:0,CA: SPIKE TV
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49425
-#EXTINF:0,CA: SPIKE TV / PARAMOUNT CANADA
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49426
-#EXTINF:0,CA: SPIKE TV / PARAMOUNT HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49427
-#EXTINF:0,CA: SPORTNET 360
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49428
-#EXTINF:0,CA: SPORTNET ONE
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49429
-#EXTINF:0,CA: Sportnet Ontario HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49430
-#EXTINF:0,CA: SPORTS NET EAST HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49431
-#EXTINF:0,CA: SPORTS NET PACIFIC HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49432
-#EXTINF:0,CA: SPORTS NET WORLD HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49433
-#EXTINF:0,CA: SPORTSMAN Channel HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49434
-#EXTINF:0,CA: SportsNet
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49435
-#EXTINF:0,CA: SportsNet 360 FHD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49436
-#EXTINF:0,CA: SportsNet East HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49437
-#EXTINF:0,CA: SportsNet HOUSTON
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49438
-#EXTINF:0,CA: SportsNet One FHD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49439
-#EXTINF:0,CA: SportsNet ONTARIO FHD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49440
-#EXTINF:0,CA: SportsNet Pacific FHD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49441
-#EXTINF:0,CA: SportsNet PPV
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49442
-#EXTINF:0,CA: SportsNet West FHD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49443
-#EXTINF:0,CA: SportsNet World HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49444
-#EXTINF:0,CA: Starz 1
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49445
-#EXTINF:0,CA: Starz 2
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49446
-#EXTINF:0,CA: SUPER Channel 1
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49447
-#EXTINF:0,CA: SUPER Channel FUSE
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49448
-#EXTINF:0,CA: SUPER Channel HEART & HOME
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49449
-#EXTINF:0,CA: SUPER Channel VAULT
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49450
-#EXTINF:0,CA: SUPER ECRAN 1
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49451
-#EXTINF:0,CA: SUPER ECRAN 1 (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49452
-#EXTINF:0,CA: SUPER ECRAN 2
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49453
-#EXTINF:0,CA: SUPER ECRAN 2 (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49454
-#EXTINF:0,CA: SUPER ECRAN 3
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49455
-#EXTINF:0,CA: Super Ecran 3 (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49456
-#EXTINF:0,CA: SUPER ECRAN 4
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49457
-#EXTINF:0,CA: Super Ecran 4 (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49458
-#EXTINF:0,CA: SUPER SPORTS
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49459
-#EXTINF:0,CA: SUPER SPORTS CH 267
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49460
-#EXTINF:0,CA: SUPER SPORTS CH 433
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49461
-#EXTINF:0,CA: SUPER SPORTS CH 434
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49462
-#EXTINF:0,CA: SUPER SPORTS CH 435
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49463
-#EXTINF:0,CA: SUPER SPORTS CH 436
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49464
-#EXTINF:0,CA: SUPER SPORTS CH 437
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49465
-#EXTINF:0,CA: SUPER SPORTS CH 438
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49466
-#EXTINF:0,CA: SUPER SPORTS CH 439
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49467
-#EXTINF:0,CA: SUPER SPORTS CH 441
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49468
-#EXTINF:0,CA: SUPER SPORTS CH 442
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49469
-#EXTINF:0,CA: SUPER SPORTS CH 443
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49470
-#EXTINF:0,CA: SUPER SPORTS CH 444
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49471
-#EXTINF:0,CA: SUPER SPORTS CH 450
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49472
-#EXTINF:0,CA: SUPER SPORTS CH 461
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49473
-#EXTINF:0,CA: SUPER SPORTS CH 462
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49474
-#EXTINF:0,CA: SUPER SPORTS CH 464
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49475
-#EXTINF:0,CA: SUPER SPORTS CH 465
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49476
-#EXTINF:0,CA: SUPER SPORTS CH 472
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49477
-#EXTINF:0,CA: SUPER SPORTS CH 476
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49478
-#EXTINF:0,CA: SUPER SPORTS CH 479
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49479
-#EXTINF:0,CA: SUPER SPORTS CH 480
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49480
-#EXTINF:0,CA: SUPER SPORTS CH 482
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49481
-#EXTINF:0,CA: SUPER SPORTS CH 483
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49482
-#EXTINF:0,CA: SUPER SPORTS CH 484
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49483
-#EXTINF:0,CA: SYFY HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49484
-#EXTINF:0,CA: TCM
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49485
-#EXTINF:0,CA: TCTV2
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49486
-#EXTINF:0,CA: Tele Quebec
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49487
-#EXTINF:0,CA: TELE QUEBEC (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49488
-#EXTINF:0,CA: TELE TOON (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49489
-#EXTINF:0,CA: TELE TOON WEST
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49490
-#EXTINF:0,CA: TELEMAGINO
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49491
-#EXTINF:0,CA: TELEMAGINO (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49492
-#EXTINF:0,CA: TELETOON EAST
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49493
-#EXTINF:0,CA: TELETOON FRENCH
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49494
-#EXTINF:0,CA: TELETOON HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49495
-#EXTINF:0,CA: TFO
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49496
-#EXTINF:0,CA: TFO (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49497
-#EXTINF:0,CA: THE SHOPPING Channel HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49498
-#EXTINF:0,CA: THE WEATHER NETWORK
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49499
-#EXTINF:0,CA: TLC HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49500
-#EXTINF:0,CA: TLC HD CANADA
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49501
-#EXTINF:0,CA: TMN 1
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49502
-#EXTINF:0,CA: TMN 1 (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49503
-#EXTINF:0,CA: TMN 2
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49504
-#EXTINF:0,CA: TMN 3
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49505
-#EXTINF:0,CA: TMN 4
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49506
-#EXTINF:0,CA: TMZ
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49507
-#EXTINF:0,CA: TORONTO 360
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49508
-#EXTINF:0,CA: Travel ESCAPE
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49509
-#EXTINF:0,CA: TREE HOUSE HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49510
-#EXTINF:0,CA: Truelive
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49511
-#EXTINF:0,CA: TSN 1 HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49512
-#EXTINF:0,CA: TSN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49513
-#EXTINF:0,CA: TSN 3 HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49514
-#EXTINF:0,CA: TSN 4 FHD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49515
-#EXTINF:0,CA: TSN 4 HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49516
-#EXTINF:0,CA: TSN 5 FHD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49517
-#EXTINF:0,CA: TSN 5 HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49518
-#EXTINF:0,CA: TV Ontario
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49519
-#EXTINF:0,CA: TV Rogers
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49520
-#EXTINF:0,CA: TV5 (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49521
-#EXTINF:0,CA: TV5 QUEBEC
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49522
-#EXTINF:0,CA: TV5 Quebec (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49523
-#EXTINF:0,CA: TVA GATINEAU
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49524
-#EXTINF:0,CA: TVA MONTREAL
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49525
-#EXTINF:0,CA: TVA Montreal (CFTM)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49526
-#EXTINF:0,CA: TVA MONTREAL (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49527
-#EXTINF:0,CA: TVA Quebec
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49528
-#EXTINF:0,CA: TVA SPORTS (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49529
-#EXTINF:0,CA: TVA Sports 2
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49530
-#EXTINF:0,CA: TVA SPORTS HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49531
-#EXTINF:0,CA: TVO HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49532
-#EXTINF:0,CA: UNIS TV
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49533
-#EXTINF:0,CA: Unis TV (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49534
-#EXTINF:0,CA: V MONTREAL (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49535
-#EXTINF:0,CA: VH1
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49536
-#EXTINF:0,CA: VIE
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49537
-#EXTINF:0,CA: VIE (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49538
-#EXTINF:0,CA: VISION TV
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49539
-#EXTINF:0,CA: VRAK TV
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49540
-#EXTINF:0,CA: VRAK TV (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49541
-#EXTINF:0,CA: W
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49542
-#EXTINF:0,CA: W NETWORK
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49543
-#EXTINF:0,CA: Weather Nation
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49544
-#EXTINF:0,CA: WEATHER NETWORK
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49545
-#EXTINF:0,CA: WEATHER NETWORK (Toronto) HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49546
-#EXTINF:0,CA: WFN
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49547
-#EXTINF:0,CA: WGN
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49548
-#EXTINF:0,CA: Wild TV
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49549
-#EXTINF:0,CA: WORLD FISHING NET
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49550
-#EXTINF:0,CA: WSBK
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49551
-#EXTINF:0,CA: WSVI TV
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49552
-#EXTINF:0,CA: WWE HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49553
-#EXTINF:0,CA: WWE NETWORK
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49554
-#EXTINF:0,CA: YES TV (Alberta)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49555
-#EXTINF:0,CA: YES TV (Ontario)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49556
-#EXTINF:0,CA: YES TV HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49557
-#EXTINF:0,CA: YOOPA
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49558
-#EXTINF:0,CA: YOOPA (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49559
-#EXTINF:0,CA: YTV (East) HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49560
-#EXTINF:0,CA: YTV HD
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49561
-#EXTINF:0,CA: YTV WEST
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49562
-#EXTINF:0,CA: Z TELE (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49563
-#EXTINF:0,CA: ZESTE
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49564
-#EXTINF:0,CA: ZESTE (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49565
-#EXTINF:0,CA: ZTELE
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49566
-#EXTINF:0,CA MUCH MUSIC
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49567
-#EXTINF:0,CA MUSIC PLUS (FR)
-#EXTVLCOPT:network-caching=1000
-http://www.esuniptv.com:5555/12x0211q31/eTav7XaPcx/49568
+http://ok2.se:8000/9e87F7UOQBzQbXiUA/da7eF9Ux5s2Tvfhwz/2401
